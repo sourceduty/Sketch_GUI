@@ -8,5 +8,9 @@
 
 'Sketch GUI' assists users by offering clear and detailed guidance at each stage of the conversion process. It explains technical steps in an understandable way, helping users navigate the complexities of GUI design. Additionally, 'Sketch GUI' addresses any questions or issues that may arise during the process, providing practical advice and suggestions to optimize the final design. By focusing on practical guidance and avoiding unnecessary jargon, 'Sketch GUI' ensures that users feel confident and supported in their ability to create effective GUI designs.
 
+#
+
+> Alex: *"This custom GPT is a bit sketchy right now but it does work and it could be improved in the future."*
+
 ***
 Copyright (C) 2024, Sourceduty - All Rights Reserved.
